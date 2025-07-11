@@ -236,7 +236,6 @@ This tool is for educational and legitimate security testing purposes only. Only
 ## Support
 
 If you encounter issues or have questions:
-1. Check the [Issues](https://github.com/yourusername/port443-detector/issues) page
 2. Create a new issue with detailed information about your problem
 3. Include the verbose output (`-v` flag) when reporting bugs
 
