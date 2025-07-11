@@ -1,4 +1,4 @@
-# VPN Service Detection Tool
+# VPN Service Detection Tool & Research Documents
 
 A Python script that uses nmap to analyze port 443 and intelligently determine what type of service is running. This tool can distinguish between regular HTTPS websites, DNS over HTTPS (DoH), DNS over TLS (DoT), SSTP VPN, and other SSL/TLS VPN services.
 
